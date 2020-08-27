@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         view.backgroundColor = UIColor.orange
-        view.tag=100;
+        view.tag=102;
         let label = UILabel()
         view.addSubview(label)
     }
